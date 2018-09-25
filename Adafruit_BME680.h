@@ -38,7 +38,7 @@
 /*=========================================================================
     I2C ADDRESS/BITS
     -----------------------------------------------------------------------*/
-#define BME680_DEFAULT_ADDRESS       (0x77)     ///< The default I2C address
+#define BME680_DEFAULT_ADDRESS       (0x76)     ///< The default I2C address
 /*=========================================================================*/
 #define BME680_DEFAULT_SPIFREQ       (1000000)  ///< The default SPI Clock speed
 
